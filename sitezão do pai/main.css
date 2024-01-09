@@ -1,0 +1,27 @@
+* {
+    text-decoration: none;
+    font-family: 'IM Fell Double Pica', serif;
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+.logo {
+    font-size: 37px;
+    display: flex;
+    float: left;
+}
+
+
+.nav1 {
+    float: inline-end;
+    display: flex;
+    gap: 100px;
+    font-size: 28px;
+    justify-content:center;
+}
+
+.img-container {
+    display: flex;
+    float: left;
+    padding: 15vh;
+}
+
