@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.superior-part, .inferior-part {
+    background-color: red;
+    height: 200px;
+    width: 400px;
+}
+
+.midle-part {
+    background: aquamarine;
+    height: 600px;
+    width: 400px;
+}
